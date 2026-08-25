@@ -1,7 +1,7 @@
 # UI-Daily-Time-Record — Daily Time Record UI
 
 [![Website](https://img.shields.io/badge/website-live-02aaff?style=for-the-badge&logo=vercel)](https://ui-daily-time-record.vercel.app)
-[![Built with](https://img.shields.io/badge/built_with-HTML%2FCSS-02aaff?style=for-the-badge&logo=html5)](https://developer.mozilla.org/)
+[![Built with](https://img.shields.io/badge/built_with-HTML%2FCSS%2FJS-02aaff?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/)
 
 A clean, modern user interface design for a Daily Time Record (DTR) system, created to provide a streamlined experience for tracking employee attendance and work hours.
 
@@ -23,7 +23,7 @@ A clean, modern user interface design for a Daily Time Record (DTR) system, crea
 
 | Category | Technologies |
 |----------|--------------|
-| **Frontend** | HTML5, CSS3 |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6) |
 | **Hosting** | Vercel |
 
 ---
