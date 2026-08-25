@@ -23,7 +23,7 @@ A clean, modern user interface design for a Daily Time Record (DTR) system, crea
 
 | Category | Technologies |
 |----------|--------------|
-| **Frontend** | HTML5, CSS3, BulmaCSS |
+| **Frontend** | HTML5, CSS3 |
 | **Hosting** | Vercel |
 
 ---
